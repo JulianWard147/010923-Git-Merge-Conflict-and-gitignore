@@ -20,7 +20,7 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
 4. **Double check that you really did checkout that new branch**
 
-5. Open jupyter notebook, and add something, delete something, or in some way change the MainNotebook provided.
+5. Open jupyter notebook, and add something, delete something, or in some way change the main-notebook provided.
 
 6. Make a new notebook called 'your-name-notebook', replacing your-name with your name, of course.
 
