@@ -52,7 +52,7 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
 12. Try to merge your branch into the main branch.
 
-13. Use the GitHub interface to resolve the merge conflict created in the main-notebook.
+13. (Eventuually!) Use the GitHub interface to resolve the merge conflict created in the main-notebook. *We will review this step together.*
 
 14. Check your work:
 - Your branch should appear as 'merged' in the Github interface.
